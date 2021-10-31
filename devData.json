@@ -91,10 +91,16 @@
          "country":"India",
          "currentEmployer":""
       },
-      {
+      {     
          "name":"Sreelakshmi.k",
          "userName":"sreelakshmi54",
          "jobStatus":"Student",
+         "country":"India",
+         "currentEmployer":""
+      },
+      {   "name":"Muhammed Binzid",
+         "userName":"Binz.mhd",
+         "jobStatus":"Freelancer",
          "country":"India",
          "currentEmployer":""
       },
@@ -108,11 +114,13 @@
       {
          "name":"Shamil Thaikkadan",
          "userName":"Shamilthaikkadan ",
+         "jobStatus":"Student",
          "country":"India"
       }, 
       {
          "name":"Muhammed Naseeb ",
          "userName":"naseeb-ek",
+         "jobStatus":"Student",
          "country":"India"
       },
       {
