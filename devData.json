@@ -6,14 +6,7 @@
          "jobStatus":"Web Developer",
          "country":"India",
          "currentEmployer":""
-      },
-      {
-         "name":"Fathima A",
-         "userName":"Fathima007",
-         "jobStatus":"Food technology student",
-         "country":"India",
-         "currentEmployer":""
-      },
+      },  
       {
          "name":"Fathima Beegum PJ",
          "userName":"beegumfathima",
@@ -22,13 +15,13 @@
          "currentEmployer":"Currently Working At Styava"
       },
       {
-         "name":"Mohammed Nihal k",
-         "userName":"Nihal350",
-         "jobStatus":"Student Developer",
+         "name":"Fathima A",
+         "userName":"Fathima007",
+         "jobStatus":"Food technology student",
          "country":"India",
          "currentEmployer":""
       },
-      {
+    {
          "name":"Mohammed abdul Gafoor",
          "userName":"Mohammedabdulgafoor",
          "jobStatus":"entrepreneur",
@@ -36,9 +29,9 @@
          "currentEmployer":""
       },
       {
-         "name":"Abin Joseph",
-         "userName":"abjs",
-         "jobStatus":"Full Stack Developer",
+         "name":"Mohammed Nihal k",
+         "userName":"Nihal350",
+         "jobStatus":"Student Developer",
          "country":"India",
          "currentEmployer":""
       },
@@ -50,15 +43,29 @@
          "currentEmployer":""
       },
       {
+         "name":"Abin Joseph",
+         "userName":"abjs",
+         "jobStatus":"Full Stack Developer",
+         "country":"India",
+         "currentEmployer":""
+      },
+      {
+         "name":"Shaheem PP",
+         "userName":"the-codeholic",
+         "jobStatus":"Student",
+         "country":"India",
+         "currentEmployer":""
+      },
+      {
          "name":"Oarabile Mwiya",
          "userName":"OarabileMwiya",
          "jobStatus":"Graduate",
          "country":"Botswana",
          "currentEmployer":""
       },
-      {
-         "name":"Shaheem PP",
-         "userName":"the-codeholic",
+      { 
+         "name":"Muhammed Swabeeh",
+         "userName":"SWABEEH22",
          "jobStatus":"Student",
          "country":"India",
          "currentEmployer":""
@@ -70,9 +77,9 @@
          "country":"India",
          "currentEmployer":""
       },
-      { 
-         "name":"Muhammed Swabeeh",
-         "userName":"SWABEEH22",
+      {
+         "name":"Raghav Babbar",
+         "userName":"BabbarRaghav",
          "jobStatus":"Student",
          "country":"India",
          "currentEmployer":""
@@ -84,29 +91,16 @@
          "country":"India",
          "currentEmployer":""
       },
-      {
-         "name":"Raghav Babbar",
-         "userName":"BabbarRaghav",
-         "jobStatus":"Student",
-         "country":"India",
-         "currentEmployer":""
-      },
-      {     
-         "name":"Sreelakshmi.k",
-         "userName":"sreelakshmi54",
-         "jobStatus":"Student",
-         "country":"India",
-         "currentEmployer":""
-      },
       {   "name":"Muhammed Binzid",
          "userName":"Binz.mhd",
          "jobStatus":"Freelancer",
          "country":"India",
          "currentEmployer":""
       },
-      {
-         "name":"Irshad pk",
-         "userName":"Irshad9074",
+      
+      {     
+         "name":"Sreelakshmi.k",
+         "userName":"sreelakshmi54",
          "jobStatus":"Student",
          "country":"India",
          "currentEmployer":""
@@ -118,15 +112,30 @@
          "country":"India"
       }, 
       {
-         "name":"Muhammed Naseeb ",
-         "userName":"naseeb-ek",
+         "name":"Irshad pk",
+         "userName":"Irshad9074",
          "jobStatus":"Student",
-         "country":"India"
+         "country":"India",
+         "currentEmployer":""
       },
       {
          "name":"Afna sherin",
          "userName":"afna34",
          "jobStatus":"Student",
+         "country":"India",
+         "currentEmployer":""
+      },
+      {
+         "name":"Muhammed Naseeb ",
+         "userName":"naseeb-ek",
+         "jobStatus":"Student",
+         "country":"India"
+      },
+      
+      {
+         "name":"Ahammed hinas kk",
+         "userName":"hinasahammed",
+        "jobStatus":"Student",
          "country":"India",
          "currentEmployer":""
       },
@@ -137,13 +146,7 @@
          "country":"India",
          "currentEmployer":""
       },
-      {
-         "name":"Ahammed hinas kk",
-         "userName":"hinasahammed",
-        "jobStatus":"Student",
-         "country":"India",
-         "currentEmployer":""
-      },
+      
       {
          "name":"Muhammed Muhsin P",
          "userName":"Muhsinmh",
